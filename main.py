@@ -11,7 +11,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from pyrogram import enums
 
-api_id = <id> # u can find it on https://my.telegram.org/ (remove the <>, just put the id)
+api_id = <id> # u can find it on https://my.telegram.org/ (remove the <id>, just put the id)
 api_hash = "" # u can find it on https://my.telegram.org/
 bot_token = "" # obv ur bot token
 
